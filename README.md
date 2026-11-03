@@ -53,3 +53,13 @@ Edit `:root` in `css/styles.css` for colors. Edit the service content and shared
 
 ## Important
 The design and static pages are complete. Form email delivery and live chat require the external activation steps above; a zip file alone cannot configure those third-party accounts. The domain is not automatically published by receiving these files.
+
+
+## November 2026 content update
+- Address: 1550 Matassino Rd, New Castle, DE 19720
+- Service cards and industry tiles now use professional photographic images instead of icons.
+- Toon Truck & Trailer Repair uses the provided emblem stored at `assets/toon-truck-trailer-repair.png`.
+- Homepage includes an Our Companies feature.
+- All page content is stored directly in HTML and can be edited on GitHub.
+- Photography currently uses external Unsplash URLs and requires internet access. Replace image URLs with locally hosted licensed assets if desired.
+- Contact forms and chat still require activation and testing.
